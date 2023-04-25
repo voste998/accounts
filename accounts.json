@@ -1,0 +1,14 @@
+accounts:[
+        {
+            id:"1",
+            name:"Stevan",
+            phone:"066/000-111",
+            email:"Stevan@gmail.com"
+        },
+        {
+            id:"2",
+            name:"Petar",
+            phone:"066/000-111",
+            email:"Petar@gmail.com"
+        }
+    ]
